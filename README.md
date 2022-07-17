@@ -9,7 +9,7 @@ Jangan lupa untuk mengikuti github ku
 * My Facebook [`Klik Disini`](https://Facebook.com)
 
 <p align="center">
-  <a href="https://github.com/DamianBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fangz+BOT+Multi+Device;Base+ori+by+AineMD;Recode+By+Damian;Give+star+and+forks+this+Repo+:);Follow+My+Github" alt="UwU">
+  <a href="https://github.com/DamianBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Damian+BOT+Multi+Device;Base+ori+by+AineMD;Recode+By+Damian;Give+star+and+forks+this+Repo+:);Follow+My+Github" alt="UwU">
 </p>
 
 ## Heroku Buildpack
