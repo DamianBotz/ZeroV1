@@ -214,7 +214,7 @@ Semua yang selalu mendukung
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 [![ariffb25](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)
-
+[![Damian](https://github.com/DamianBotz.png?size=100)](https://github.com/DamianBotz)
 
 ## ⭐Contributor
 
@@ -223,9 +223,10 @@ Semua yang selalu mendukung
 [![amiruldev20](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20)
 [![Chacax](https://github.com/Chacax.png?size=100)](https://github.com/Chacax)
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
+[![Damian](https://github.com/DamianBotz.png?size=100)](https://github.com/DamianBotz)
 
 <p align="center">
-  <a href="https://github.com/DamianBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Damian+BOT+Multi+Device;Base+ori+by+AineMD;Recode+By+Damian;Give+star+and+forks+this+Repo+:);Follow+My+Github" alt="UwU">
+  <a href="https://github.com/DamianBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FF0063&center=true&vCenter=true&multiline=false&lines=Damian+BOT+Multi+Device;Base+ori+by+AineMD;Recode+By+Damian;Give+star+and+forks+this+Repo+:);Follow+My+Github" alt="UwU">
 </p>
 
 Best Regards. DamianMD
