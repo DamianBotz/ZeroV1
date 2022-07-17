@@ -224,6 +224,9 @@ Semua yang selalu mendukung
 [![Chacax](https://github.com/Chacax.png?size=100)](https://github.com/Chacax)
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 
+<p align="center">
+  <a href="https://github.com/DamianBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Damian+BOT+Multi+Device;Base+ori+by+AineMD;Recode+By+Damian;Give+star+and+forks+this+Repo+:);Follow+My+Github" alt="UwU">
+</p>
 
 Best Regards. DamianMD
 
