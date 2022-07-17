@@ -8,6 +8,10 @@ Jangan lupa untuk mengikuti github ku
 * My Bot [`Klik disini`](https://wa.me/6285785845416?text=#menu)
 * My Facebook [`Klik Disini`](https://Facebook.com)
 
+<p align="center">
+  <a href="https://github.com/DamianBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fangz+BOT+Multi+Device;Base+ori+by+AineMD;Recode+By+Damian;Give+star+and+forks+this+Repo+:);Follow+My+Github" alt="UwU">
+</p>
+
 ## Heroku Buildpack
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DamianBotz)
 
@@ -80,7 +84,7 @@ npm update
 
 ---------
 
-## FOR WINDOWS/VPS/RDP USER
+## 💻 FOR WINDOWS/VPS/RDP USER
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
@@ -96,7 +100,7 @@ npm update
 
 ---------
 
-## FOR OKTETO
+## 🐙 FOR OKTETO
 
 * Okteto [`Klik disini`](https://okteto.com)
 
@@ -109,14 +113,14 @@ Choose your repo
 
 ---------
 
-## PANEL/RDP/VPS
+## 💻 PANEL/RDP/VPS
 
 * Amiruldev [`Click Here`](https://www.amiruldev.my.id)
 
 
 ---------
 
-## Run
+## 🏃 Run
 
 ```bash
 node .
