@@ -1,4 +1,4 @@
-# Aine-MD
+# DamianMD
 
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
@@ -9,7 +9,7 @@ Jangan lupa untuk mengikuti github ku
 * My Facebook [`Click Here`](https://facebook.com/ainneboot)
 
 ## Heroku Buildpack
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DamianBotz)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -72,8 +72,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
+git clone https://github.com/DamianBotz
+cd DamianBotz
 npm install
 npm update
 ```
@@ -88,8 +88,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
+git clone https://github.com/DamianBotz
+cd DamianBotz
 npm install
 npm update
 ```
@@ -98,7 +98,7 @@ npm update
 
 ## FOR OKTETO
 
-* Okteto [`Click Here`](https://okteto.com)
+* Okteto [`Klik disini`](https://okteto.com)
 
 ```bash
 Login with your github
@@ -221,5 +221,5 @@ Semua yang selalu mendukung
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 
 
-Best Regards. Aine-MD
+Best Regards. DamianMD
 
