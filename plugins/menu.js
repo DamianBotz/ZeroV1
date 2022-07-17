@@ -35,7 +35,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-––––––『 LIST MENU 』––––––
+––––––『 𝘿 𝘼 𝙈 𝙄 𝘼 𝙉 』––––––
 %ucapan %name! 👋
 *ＵＳＥＲ ＩＮＦＯ*
 ➤• *𝙡𝙞𝙢𝙞𝙩:* %limit
@@ -49,8 +49,8 @@ const defaultMenu = {
 ➤• *𝘿𝙖𝙮:* %week
 ➤• *𝙏𝙖𝙣𝙜𝙜𝙖𝙡:* %date
 ➤• *𝙍𝙪𝙣𝙏𝙞𝙢𝙚:* %uptime (%muptime)
-➤• *𝙕𝙚𝙧𝙤 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡*
-https://chat.whatsapp.com/D05rhi0ELaOCPrEVq9qLf9
+➤• *𝘿𝙖𝙢𝙞𝙖𝙣𝘽𝙤𝙩𝙯*
+https://chat.whatsapp.com/HzqesqeZmdP3Wp2oLnrnxE
 
 ⚠️ *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner
 
@@ -181,7 +181,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Website',
-                                    url: 'https://Ainebot.github.io/'
+                                    url: 'https://github.com/DamianBotz'
                                 }
                             }, {
                                 quickReplyButton: {
