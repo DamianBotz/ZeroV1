@@ -1,12 +1,12 @@
 # DamianMD
 
-This script is free, if caught sold, this script will be deleted immediately.
+🇬🇧 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
 
-Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
+🇮🇩 Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
 Jangan lupa untuk mengikuti github ku
-* My WhatsApp [`Click Here`](https://wa.me/62895330379186?text=Assalamualaikum)
-* My Facebook [`Click Here`](https://facebook.com/ainneboot)
+* My Bot [`Klik disini`](https://wa.me/6285785845416?text=#menu)
+* My Facebook [`Klik Disini`](https://Facebook.com)
 
 ## Heroku Buildpack
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DamianBotz)
@@ -198,7 +198,7 @@ gconly: false, // If that chat not from group, bot will ignore
 
 ---------
 
-#### Thank's To
+#### 📮Thank's To
 
 Allah SWT,
 
@@ -212,7 +212,7 @@ Semua yang selalu mendukung
 [![ariffb25](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)
 
 
-## Contributor
+## ⭐Contributor
 
 [![Darrma23](https://github.com/Darrma23.png?size=100)](https://github.com/Darrma23)
 [![aniq12](https://github.com/aniq12.png?size=100)](https://github.com/aniq12)
